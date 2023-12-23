@@ -1,8 +1,8 @@
-# React + Vite
+Hosted url: https://65868bbc2ac8771875dd934b--admirable-cendol-532ec7.netlify.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Offline todo app using ReactJS hosted at: Todo App.
+2. Todos are stored in local storage to persist data even if the page is refreshed.
+3. Includes search functionality for todos.
+4. Default status for todos is pending; clicking on a todo changes its status to completed.
+5. Completed todos cannot be reverted to pending.
+6. Pending tasks are prioritized and displayed before completed tasks.
